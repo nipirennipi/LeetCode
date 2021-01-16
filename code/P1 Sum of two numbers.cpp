@@ -1,7 +1,7 @@
-#define P947_Most_stones_removed_with_same_row_or_column_cpp
-#ifdef P947_Most_stones_removed_with_same_row_or_column_cpp
+#define P1_Sum_of_two_numbers_cpp
+#ifdef P1_Sum_of_two_numbers_cpp
 
-//Á´½Ó£ºhttps://leetcode-cn.com/problems/two-sum
+//ÃÂ´Â½Ã“Â£Âºhttps://leetcode-cn.com/problems/two-sum
 
 #include"stdafx.h"
 
