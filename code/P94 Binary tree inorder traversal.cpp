@@ -60,7 +60,7 @@ public:
 				cur=cur->right;
 			}
 		}
-		return nodeV;	
+		return nodeV;
 	}
 };
 
